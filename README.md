@@ -52,7 +52,7 @@ The system runs entirely in the **console**.
 ---
 
 ## 🗂 Project Structure
-
+```
 src/
 ├── com.thuchanh.quanlyphonghoc/
 │ ├── AddRoom.java # Add room UI logic
@@ -69,7 +69,7 @@ src/
 │ ├── DatabaseUtil.java # Data read/write (file I/O)
 │ ├── Rooms.java # Room object
 │ └── Statistic.java # Logic for statistics
-
+```
 ---
 
 ## 🚀 How to Run the Project
