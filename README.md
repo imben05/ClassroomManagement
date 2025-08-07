@@ -55,20 +55,20 @@ The system runs entirely in the **console**.
 ```
 src/
 ├── com.thuchanh.quanlyphonghoc/
-│ ├── AddRoom.java # Add room UI logic
-│ ├── BookRoom.java # Room booking feature
-│ ├── HistoryBookings.java # View booking history
-│ ├── Home.java # Main menu
-│ ├── Login.java # Admin login handling
-│ ├── ManageRooms.java # Room management interface
-│ └── StatisticView.java # Statistics UI
+│ ├── AddRoom.java
+│ ├── BookRoom.java
+│ ├── HistoryBookings.java
+│ ├── Home.java
+│ ├── Login.java
+│ ├── ManageRooms.java
+│ └── StatisticView.java
 │
 ├── model/
-│ ├── Admin.java # Admin user model
-│ ├── Booking.java # Booking object
-│ ├── DatabaseUtil.java # Data read/write (file I/O)
-│ ├── Rooms.java # Room object
-│ └── Statistic.java # Logic for statistics
+│ ├── Admin.java
+│ ├── Booking.java
+│ ├── DatabaseUtil.java
+│ ├── Rooms.java
+│ └── Statistic.java
 ```
 ---
 
