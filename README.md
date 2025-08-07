@@ -78,7 +78,7 @@ src/
 
 ```bash
 git clone https://github.com/imben05/ClassroomManagement.git
-
+```
 2. **Open in NetBeans:**
 - File > Open Project
 - Select QuanLyPhongHoc folder
@@ -89,7 +89,6 @@ git clone https://github.com/imben05/ClassroomManagement.git
 
 ---
 
-```markdown
 ## 👤 Author
 
 - **Nguyễn Lê Xuân Trí**
